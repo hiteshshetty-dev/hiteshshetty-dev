@@ -9,7 +9,7 @@ Welcome to My Profile
  Talk me about
  - Front-end development using <b>ReactJs, Bootstrap</b>
  - Back-end development using <b>Django, NodeJs, ExpressJs </b>
- - Blockchain
+ - <b>Blockchain<b>
  
 # 📬 Contact Me
   - Email: <a href = "mailto: hitesh.shetty2011@gmail.com">Gmail</a>
