@@ -1,6 +1,10 @@
 # Hi there, I'm Hitesh Shetty! 👋
 
 <div align="center">
+  <img src="https://hiteshshetty.com/icons/logo-inverted.svg" alt="Hitesh Shetty Logo" width="100" height="100">
+</div>
+
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Full-Stack+Developer;React+%26+TypeScript+Expert;Open+Source+Contributor)
 
@@ -82,10 +86,6 @@ I'm always excited to help fellow developers and collaborate on interesting proj
 - **MongoDB** - Database design and optimization
 
 ### 📫 Get in Touch
-
-<div align="center">
-  <img src="https://hiteshshetty.com/icons/logo-inverted.svg" alt="Hitesh Shetty Logo" width="80" height="80">
-</div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://hiteshshetty.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-shetty2011/)
